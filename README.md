@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on personal frontend applications.
 - 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about React, Golang, Node.js
-- 📫 How to reach me: [oozayranci@gmail.com](oozayranci@gmail.com)
-
+- 📫 How to reach me: |Name|Email|Address|
+-                   |----|-----|-------| 
+                   |John|john@example.com|Address1|
