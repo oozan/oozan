@@ -7,6 +7,6 @@
 - 💬 Ask me about React, Golang, Node.js
 - 📫 How to reach me:
 
-|Name|Email|Address|
-|----|-----|-------| 
-|John|john@example.com|Address1|
+
+|-----|
+|john@example.com|
