@@ -6,6 +6,6 @@
 - 💬 Ask me about React, REST APIs, Go, Node.js
 - 📫 How to reach me: oozayranci@gmail.com || [LinkedIn](https://www.linkedin.com/in/oozan/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oozan&layout=compact)](https://github.com/oozan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oozan&layout=compact)](https://github.com/oozan/)
 
-[![Ozan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oozan)](https://github.com/oozan/github-readme-stats)
+[![Ozan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oozan)](https://github.com/oozan/)
