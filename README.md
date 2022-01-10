@@ -1,5 +1,5 @@
 ##                                Hi! It's Ozan 
-### Passioante Software developer about the never-ending learning path and astronomy.
+### Software developer passionate about the never-ending learning path and astronomy.
 
 - 🔭 I’m currently working on personal frontend applications.
 - 🌱 I’m currently learning Node.js
