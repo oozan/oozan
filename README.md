@@ -1,5 +1,5 @@
 ##                                Hi! It's Ozan 
-### Software developer passionate about long learning and astronomy.
+### Software developer passionate about lifelong learning and astronomy.
 
 - 🔭 I’m currently working on frontend applications.
 - 🌱 I’m currently learning Node.js
