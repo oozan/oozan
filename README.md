@@ -5,8 +5,5 @@
 - 🔭 I’m currently working on personal frontend applications.
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about React, Golang, Node.js
-- 📫 How to reach me:
+- 📫 How to reach me: oozayranci@gmail.com
 
-
-|-----|
-john@example.com
