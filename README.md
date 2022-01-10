@@ -9,4 +9,4 @@
 
 
 |-----|
-|john@example.com|
+john@example.com
