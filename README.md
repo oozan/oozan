@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on personal frontend applications.
 - 🌱 I’m currently learning Node.js
-- 💬 Ask me about React, REST APIs, Node.js
+- 💬 Ask me about React, REST APIs, Go, Node.js
 - 📫 How to reach me: oozayranci@gmail.com
 
