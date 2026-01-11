@@ -3,7 +3,7 @@
 ### Frontend-Focused Full-Stack Developer ⚡
 
 **Metalhead. Ex pro drummer with an underground past. Anime enjoyer. Volleyball coach.**  
-I build fast, user-centric interfaces — and the backend logic that powers them — with a strong focus on clean code, performance, and scalability.
+I build fast, user-centric interfaces and the backend logic that powers them with a strong focus on clean code, performance and scalability.
 
 ---
 
