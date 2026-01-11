@@ -19,7 +19,7 @@ I build fast, user-centric interfaces and the backend logic that powers them wit
 
 - **React, Next.js, TypeScript**
 - **REST APIs & Azure**
-- **Go** (backend language)
+- **Go** (primary 🔥)
 - UI/UX patterns, state management, and scalable frontend architecture
 
 ---
