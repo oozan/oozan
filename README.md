@@ -1,13 +1,56 @@
-##                                Hi! It's Ozan 
-### Software developer passionate about lifelong learning and astronomy.
+# Hi, I'm Ozan 👋
 
-- 🔭 I’m currently working on frontend applications.
-- 🌱 I’m currently learning Node.js
-- 💬 Ask me about React, REST APIs, Go, Node.js
-- 📫 How to reach me: oozayranci@gmail.com || [LinkedIn](https://www.linkedin.com/in/oozan/)
+### Frontend-Focused Full-Stack Developer ⚡
 
+**Metalhead. Ex pro drummer with an underground past. Anime enjoyer. Volleyball coach.**  
+I build fast, user-centric interfaces — and the backend logic that powers them — with a strong focus on clean code, performance, and scalability.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oozan&layout=compact)](https://github.com/oozan/)
+---
 
+### 🔭 What I'm currently working on
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oozan&show_icons=true)
+- Building an **e-commerce platform** with **Next.js, TypeScript & Tailwind CSS**
+- Developing an **AI agent** designed to help businesses scale and automate their content
+- Exploring **Hugging Face** and modern ML tools as a newcomer to the ecosystem
+
+---
+
+### 💬 Ask me about
+
+- **React, Next.js, TypeScript**
+- **REST APIs & Azure**
+- **Go** (backend language)
+- UI/UX patterns, state management, and scalable frontend architecture
+
+---
+
+### 🧰 Tech Stack
+
+#### **Frontend**
+- React, Next.js  
+- TypeScript  
+- Tailwind CSS  
+- Redux & Redux Toolkit  
+- Responsive UI / Component Systems
+
+#### **Backend**
+- **Go** (core language)  
+- Node.js, NestJS  
+- FastAPI  
+
+#### **Databases**
+- PostgreSQL  
+- CosmosDB  
+
+#### **DevOps / Cloud / Tools**
+- Git & GitHub  
+- Docker  
+- Azure  
+- Vercel  
+
+---
+
+### 📫 Connect with me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/oozan/  
+- ✉️ **Email me:** oozyranci@gmail.com  
