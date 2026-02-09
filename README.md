@@ -1,8 +1,13 @@
-# Hi, I'm Ozan 👋
+Hi, I'm Ozan 👋
 
-### Frontend-Focused Full-Stack Developer ⚡
+🥁 Former Pro Drummer • 🏐 Volleyball Coach • 💻 Full-Stack Developer ⚡
 
-I build fast, user-centric interfaces and the backend logic that powers them with a strong focus on clean code, performance and scalability.
+Before tech, I spent years performing as a semi-professional drummer, playing festivals and live shows across Europe and the Nordics.
+These days music is my side project and creative outlet.
+
+### Full-Stack Developer ⚡
+
+I build fast, user-centric interfaces and the backend logic that sits with extreme expectations them with strong clients on clean code, performance and scalability.
 
 ---
 
