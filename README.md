@@ -2,9 +2,6 @@ Hi, I'm Ozan 👋
 
 🥁 Former Pro Drummer • 🏐 Volleyball Coach • 💻 Full-Stack Developer ⚡ 🇫🇮 11 years in Finland
 
-Before tech, I spent years performing as a semi-professional drummer, playing festivals and live shows across Europe and the Nordics.
-These days music is my side project and creative outlet.
-
 ### Full-Stack Developer ⚡
 
 I build fast, user-centric interfaces and the backend logic that sits with extreme expectations them with strong clients on clean code, performance and scalability.
