@@ -4,7 +4,7 @@ Hi, I'm Ozan 👋
 
 ### Full-Stack Developer ⚡
 
-I build fast, user-centric interfaces and the backend logic that sits with extreme expectations them with strong clients on clean code, performance and scalability.
+I build fast, user-centric interfaces and the backend logic that sits with extreme expectations with strong clients on clean code, performance and scalability.
 
 ---
 
