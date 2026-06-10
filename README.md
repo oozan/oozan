@@ -1,6 +1,6 @@
 Hi, I'm Ozan 👋
 
-🥁 Former Pro Drummer • 🏐 Volleyball Coach • 💻 Full-Stack Developer ⚡ 🇫🇮 11 years in Finland
+🥁 Former Pro Drummer • 🏐 Volleyball Coach • 💻 Full-Stack Developer ⚡
 
 ### Full-Stack Developer ⚡
 
