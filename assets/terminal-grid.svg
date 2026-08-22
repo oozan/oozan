@@ -1,24 +1,147 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+<svg width="1200" height="460" viewBox="0 0 1200 460" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
   <title id="title">Ozan Özayrancı — full-stack systems engineer</title>
-  <desc id="description">Animated green terminal interface showing Ozan's focus on product engineering, backend systems, and cloud delivery.</desc>
+  <desc id="description">An animated obsidian, emerald, and gold engineering console representing product, systems, and cloud delivery.</desc>
+
   <defs>
-    <linearGradient id="background" x1="80" y1="18" x2="1110" y2="402" gradientUnits="userSpaceOnUse"><stop stop-color="#050806"/><stop offset="0.5" stop-color="#08130D"/><stop offset="1" stop-color="#061009"/></linearGradient>
-    <linearGradient id="accent" x1="172" y1="90" x2="970" y2="318" gradientUnits="userSpaceOnUse"><stop stop-color="#86EFAC"/><stop offset="0.48" stop-color="#22C55E"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
-    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#22C55E" stop-opacity="0"/><stop offset="0.5" stop-color="#22C55E" stop-opacity="0.16"/><stop offset="1" stop-color="#22C55E" stop-opacity="0"/></linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#22C55E" stroke-opacity="0.055"/></pattern>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <clipPath id="frame-clip"><rect x="1" y="1" width="1198" height="418" rx="22"/></clipPath>
+    <linearGradient id="background" x1="48" y1="18" x2="1136" y2="438" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030604"/>
+      <stop offset="0.46" stop-color="#07110B"/>
+      <stop offset="1" stop-color="#050805"/>
+    </linearGradient>
+    <radialGradient id="emerald-aura" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(952 210) rotate(180) scale(360 270)">
+      <stop stop-color="#22C55E" stop-opacity="0.14"/>
+      <stop offset="0.52" stop-color="#15803D" stop-opacity="0.045"/>
+      <stop offset="1" stop-color="#052E16" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="metallic-name" x1="72" y1="0" x2="770" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6E7B2"/>
+      <stop offset="0.18" stop-color="#D6B15F"/>
+      <stop offset="0.44" stop-color="#86EFAC"/>
+      <stop offset="0.7" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#BEEFCB"/>
+    </linearGradient>
+    <linearGradient id="gold-line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#9A7435" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E7C873"/>
+      <stop offset="1" stop-color="#9A7435" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="light-sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFF2C2" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="micro-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#52E68A" stroke-opacity="0.038"/>
+      <circle cx="0" cy="0" r="1" fill="#D6B15F" fill-opacity="0.1"/>
+    </pattern>
+    <filter id="emerald-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="gold-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame-clip"><rect x="1" y="1" width="1198" height="458" rx="24"/></clipPath>
+    <clipPath id="name-clip">
+      <text x="70" y="190" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="58" font-weight="750" letter-spacing="-1.8">OZAN ÖZAYRANCI</text>
+    </clipPath>
   </defs>
+
   <style>
-    .scanline { animation: scan 7s linear infinite; } .pulse { animation: pulse 2.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; } .pulse-delayed { animation: pulse 2.8s 0.9s ease-in-out infinite; transform-box: fill-box; transform-origin: center; } .cursor { animation: blink 1.05s steps(1) infinite; } .signal-a { animation: signal 3.6s ease-in-out infinite; } .signal-b { animation: signal 3.6s 0.45s ease-in-out infinite; } .signal-c { animation: signal 3.6s 0.9s ease-in-out infinite; } .signal-d { animation: signal 3.6s 1.35s ease-in-out infinite; }
-    @keyframes scan { from { transform: translateY(-70px); } to { transform: translateY(490px); } } @keyframes pulse { 0%, 100% { opacity: 0.45; transform: scale(0.92); } 50% { opacity: 1; transform: scale(1.08); } } @keyframes blink { 0%, 46% { opacity: 1; } 47%, 100% { opacity: 0; } } @keyframes signal { 0%, 100% { opacity: 0.2; } 45%, 65% { opacity: 0.95; } }
-    @media (prefers-reduced-motion: reduce) { .scanline, .pulse, .pulse-delayed, .cursor, .signal-a, .signal-b, .signal-c, .signal-d { animation: none; } }
+    .frame-flow { stroke-dasharray: 90 18; animation: dash 9s linear infinite; }
+    .circuit-a { stroke-dasharray: 54 16; animation: dash 7s linear infinite; }
+    .circuit-b { stroke-dasharray: 32 20; animation: dash-reverse 9s linear infinite; }
+    .sweep { animation: sweep 6.8s ease-in-out infinite; }
+    .orbit { animation: orbit 18s linear infinite; transform-origin: 964px 213px; }
+    .orbit-reverse { animation: orbit-reverse 12s linear infinite; transform-origin: 964px 213px; }
+    .pulse { animation: pulse 2.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .pulse-late { animation: pulse 2.8s 1.1s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .twinkle-a { animation: twinkle 3.2s ease-in-out infinite; }
+    .twinkle-b { animation: twinkle 3.2s 1.1s ease-in-out infinite; }
+    .twinkle-c { animation: twinkle 3.2s 2.1s ease-in-out infinite; }
+    .cursor { animation: blink 1.05s steps(1) infinite; }
+    .bar-1 { animation: bar 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: bottom; }
+    .bar-2 { animation: bar 2.4s 0.3s ease-in-out infinite; transform-box: fill-box; transform-origin: bottom; }
+    .bar-3 { animation: bar 2.4s 0.6s ease-in-out infinite; transform-box: fill-box; transform-origin: bottom; }
+    .bar-4 { animation: bar 2.4s 0.9s ease-in-out infinite; transform-box: fill-box; transform-origin: bottom; }
+    .bar-5 { animation: bar 2.4s 1.2s ease-in-out infinite; transform-box: fill-box; transform-origin: bottom; }
+
+    @keyframes dash { to { stroke-dashoffset: -216; } }
+    @keyframes dash-reverse { to { stroke-dashoffset: 208; } }
+    @keyframes sweep { 0%, 16% { transform: translateX(-330px); opacity: 0; } 32% { opacity: 1; } 68% { opacity: 1; } 84%, 100% { transform: translateX(1050px); opacity: 0; } }
+    @keyframes orbit { to { transform: rotate(360deg); } }
+    @keyframes orbit-reverse { to { transform: rotate(-360deg); } }
+    @keyframes pulse { 0%, 100% { opacity: 0.45; transform: scale(0.88); } 50% { opacity: 1; transform: scale(1.14); } }
+    @keyframes twinkle { 0%, 100% { opacity: 0.15; } 50% { opacity: 0.95; } }
+    @keyframes blink { 0%, 48% { opacity: 1; } 49%, 100% { opacity: 0; } }
+    @keyframes bar { 0%, 100% { transform: scaleY(0.28); opacity: 0.38; } 50% { transform: scaleY(1); opacity: 1; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .frame-flow, .circuit-a, .circuit-b, .sweep, .orbit, .orbit-reverse, .pulse, .pulse-late, .twinkle-a, .twinkle-b, .twinkle-c, .cursor, .bar-1, .bar-2, .bar-3, .bar-4, .bar-5 { animation: none; }
+    }
   </style>
-  <g clip-path="url(#frame-clip)"><rect x="1" y="1" width="1198" height="418" rx="22" fill="url(#background)"/><rect x="1" y="1" width="1198" height="418" rx="22" fill="url(#grid)"/><ellipse cx="955" cy="202" rx="310" ry="240" fill="#16A34A" fill-opacity="0.045"/><rect class="scanline" x="0" y="0" width="1200" height="70" fill="url(#scan)"/></g>
-  <rect x="1" y="1" width="1198" height="418" rx="22" stroke="#22C55E" stroke-opacity="0.42" stroke-width="2"/><path d="M1 58H1199" stroke="#22C55E" stroke-opacity="0.2"/>
-  <circle cx="30" cy="30" r="5" fill="#166534"/><circle cx="50" cy="30" r="5" fill="#15803D"/><circle class="pulse" cx="70" cy="30" r="5" fill="#22C55E"/><text x="96" y="35" fill="#6B8F77" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" letter-spacing="1.5">OOZAN / ENGINEERING CONSOLE</text><text x="1167" y="35" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" text-anchor="end">ONLINE</text>
-  <g transform="translate(68 105)"><text x="0" y="0" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">&gt; initialize profile</text><text x="0" y="71" fill="url(#accent)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="55" font-weight="700" letter-spacing="-1.8">OZAN ÖZAYRANCI</text><text x="2" y="112" fill="#D1FAE5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="19" letter-spacing="2.1">FULL-STACK SYSTEMS ENGINEER</text><text x="2" y="153" fill="#79A888" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">product interfaces · backend services · cloud delivery</text><rect class="cursor" x="587" y="137" width="9" height="21" rx="1" fill="#22C55E"/></g>
-  <g transform="translate(69 309)"><rect width="292" height="68" rx="10" fill="#07130B" stroke="#22C55E" stroke-opacity="0.28"/><circle class="pulse" cx="25" cy="24" r="5" fill="#22C55E" filter="url(#glow)"/><text x="42" y="29" fill="#A7F3D0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">GO / SYSTEMS</text><rect class="signal-a" x="20" y="47" width="50" height="3" rx="1.5" fill="#22C55E"/><rect class="signal-b" x="78" y="47" width="79" height="3" rx="1.5" fill="#22C55E"/><rect class="signal-c" x="165" y="47" width="43" height="3" rx="1.5" fill="#22C55E"/><rect class="signal-d" x="216" y="47" width="55" height="3" rx="1.5" fill="#22C55E"/></g>
-  <g transform="translate(385 309)"><rect width="292" height="68" rx="10" fill="#07130B" stroke="#22C55E" stroke-opacity="0.28"/><circle class="pulse-delayed" cx="25" cy="24" r="5" fill="#22C55E" filter="url(#glow)"/><text x="42" y="29" fill="#A7F3D0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">TS / PRODUCT</text><rect class="signal-b" x="20" y="47" width="70" height="3" rx="1.5" fill="#22C55E"/><rect class="signal-c" x="98" y="47" width="46" height="3" rx="1.5" fill="#22C55E"/><rect class="signal-d" x="152" y="47" width="92" height="3" rx="1.5" fill="#22C55E"/><rect class="signal-a" x="252" y="47" width="19" height="3" rx="1.5" fill="#22C55E"/></g>
-  <g transform="translate(701 309)"><rect width="430" height="68" rx="10" fill="#07130B" stroke="#22C55E" stroke-opacity="0.28"/><circle class="pulse" cx="25" cy="24" r="5" fill="#22C55E" filter="url(#glow)"/><text x="42" y="29" fill="#A7F3D0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">CLOUD / DELIVERY</text><text x="408" y="29" fill="#4ADE80" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" text-anchor="end">BUILDING RELIABLE SYSTEMS</text><path d="M20 48H410" stroke="#22C55E" stroke-opacity="0.13" stroke-width="3" stroke-linecap="round"/><path class="signal-c" d="M20 48H330" stroke="#22C55E" stroke-width="3" stroke-linecap="round"/></g>
+
+  <g clip-path="url(#frame-clip)">
+    <rect x="1" y="1" width="1198" height="458" rx="24" fill="url(#background)"/>
+    <rect x="1" y="1" width="1198" height="458" rx="24" fill="url(#micro-grid)"/>
+    <rect width="1200" height="460" fill="url(#emerald-aura)"/>
+    <path d="M-80 382L370 -22M222 496L720 -12M758 478L1240 40" stroke="#D6B15F" stroke-opacity="0.025" stroke-width="46"/>
+    <rect class="sweep" x="0" y="0" width="260" height="460" fill="url(#light-sweep)" transform="skewX(-15)" opacity="0"/>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="458" rx="24" stroke="#1B5E36" stroke-width="2"/>
+  <rect class="frame-flow" x="4" y="4" width="1192" height="452" rx="21" stroke="#D6B15F" stroke-opacity="0.48"/>
+  <path d="M1 62H1199" stroke="url(#gold-line)" stroke-opacity="0.6"/>
+
+  <g aria-hidden="true">
+    <circle cx="31" cy="31" r="5" fill="#6E5729"/>
+    <circle cx="52" cy="31" r="5" fill="#13743B"/>
+    <circle class="pulse" cx="73" cy="31" r="5" fill="#43E27B" filter="url(#emerald-glow)"/>
+    <text x="100" y="36" fill="#8AA393" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="2">OOZAN / PRIVATE BUILD · PUBLIC CRAFT</text>
+    <text x="1165" y="36" fill="#D6B15F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="1.7" text-anchor="end">SYSTEMS ONLINE</text>
+  </g>
+
+  <g>
+    <text x="70" y="110" fill="#D6B15F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" letter-spacing="2.6">01 / ENGINEERING PROFILE</text>
+    <text x="70" y="190" fill="url(#metallic-name)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="58" font-weight="750" letter-spacing="-1.8">OZAN ÖZAYRANCI</text>
+    <rect class="sweep" x="0" y="125" width="230" height="84" fill="url(#light-sweep)" clip-path="url(#name-clip)" opacity="0"/>
+    <text x="72" y="231" fill="#E8F7ED" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="2.7">FULL-STACK SYSTEMS ENGINEER</text>
+    <text x="72" y="269" fill="#7FA18A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">product precision · service reliability · cloud discipline</text>
+    <rect class="cursor" x="639" y="254" width="8" height="19" rx="1" fill="#D6B15F"/>
+  </g>
+
+  <g aria-hidden="true">
+    <path class="circuit-a" d="M792 113H855L884 142H1034L1060 116H1144" stroke="#22C55E" stroke-opacity="0.42" stroke-width="1.4"/>
+    <path class="circuit-b" d="M782 281H848L881 248H1040L1070 278H1148" stroke="#D6B15F" stroke-opacity="0.42" stroke-width="1.2"/>
+    <circle cx="964" cy="213" r="86" stroke="#22C55E" stroke-opacity="0.18"/>
+    <circle class="orbit" cx="964" cy="213" r="64" stroke="#D6B15F" stroke-opacity="0.56" stroke-width="1.3" stroke-dasharray="9 13"/>
+    <circle class="orbit-reverse" cx="964" cy="213" r="42" stroke="#43E27B" stroke-opacity="0.7" stroke-width="1.2" stroke-dasharray="4 8"/>
+    <circle class="pulse" cx="964" cy="213" r="13" fill="#0A2C18" stroke="#43E27B" stroke-width="2" filter="url(#emerald-glow)"/>
+    <circle class="pulse-late" cx="964" cy="213" r="4" fill="#F2D98B" filter="url(#gold-glow)"/>
+    <circle class="twinkle-a" cx="914" cy="163" r="3" fill="#F2D98B"/>
+    <circle class="twinkle-b" cx="1016" cy="177" r="3" fill="#43E27B"/>
+    <circle class="twinkle-c" cx="1001" cy="266" r="3" fill="#F2D98B"/>
+    <path d="M964 127V104M1050 213H1082M964 299V318M878 213H846" stroke="#8BC99E" stroke-opacity="0.32"/>
+    <text x="964" y="342" fill="#6F8A77" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2" text-anchor="middle">DESIGN · BUILD · OPERATE</text>
+  </g>
+
+  <g transform="translate(70 335)">
+    <rect width="240" height="78" rx="12" fill="#07100A" fill-opacity="0.92" stroke="#D6B15F" stroke-opacity="0.3"/>
+    <text x="20" y="28" fill="#D8ECDD" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="1.4">GO / SYSTEMS</text>
+    <text x="20" y="55" fill="#6B8F77" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">APIs · concurrency · operations</text>
+    <rect class="bar-1" x="198" y="24" width="4" height="28" rx="2" fill="#22C55E"/><rect class="bar-2" x="207" y="18" width="4" height="34" rx="2" fill="#43E27B"/><rect class="bar-3" x="216" y="28" width="4" height="24" rx="2" fill="#D6B15F"/>
+  </g>
+  <g transform="translate(330 335)">
+    <rect width="240" height="78" rx="12" fill="#07100A" fill-opacity="0.92" stroke="#22C55E" stroke-opacity="0.28"/>
+    <text x="20" y="28" fill="#D8ECDD" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="1.4">TS / PRODUCT</text>
+    <text x="20" y="55" fill="#6B8F77" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">React · Next.js · experience</text>
+    <rect class="bar-2" x="198" y="29" width="4" height="23" rx="2" fill="#22C55E"/><rect class="bar-3" x="207" y="21" width="4" height="31" rx="2" fill="#43E27B"/><rect class="bar-4" x="216" y="15" width="4" height="37" rx="2" fill="#D6B15F"/>
+  </g>
+  <g transform="translate(590 335)">
+    <rect width="240" height="78" rx="12" fill="#07100A" fill-opacity="0.92" stroke="#D6B15F" stroke-opacity="0.3"/>
+    <text x="20" y="28" fill="#D8ECDD" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="1.4">CLOUD / DELIVERY</text>
+    <text x="20" y="55" fill="#6B8F77" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">containers · IaC · observability</text>
+    <rect class="bar-3" x="198" y="18" width="4" height="34" rx="2" fill="#22C55E"/><rect class="bar-4" x="207" y="26" width="4" height="26" rx="2" fill="#43E27B"/><rect class="bar-5" x="216" y="12" width="4" height="40" rx="2" fill="#D6B15F"/>
+  </g>
 </svg>

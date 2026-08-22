@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oozan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22c55e" /></a>
-  <a href="mailto:oozyranci@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22c55e" /></a>
-  <a href="https://github.com/oozan?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/Explore_projects-0d1117?style=for-the-badge&logo=github&logoColor=22c55e" /></a>
+  <a href="https://www.linkedin.com/in/oozan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-080b09?style=for-the-badge&logo=linkedin&logoColor=d6b15f" /></a>
+  <a href="mailto:oozyranci@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-080b09?style=for-the-badge&logo=gmail&logoColor=22c55e" /></a>
+  <a href="https://github.com/oozan?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/Explore_projects-080b09?style=for-the-badge&logo=github&logoColor=d6b15f" /></a>
 </p>
 
-## Engineering products that hold up
+## Engineering products that endure
 
 I’m **Ozan Özayrancı**, a full-stack developer focused on systems that are fast at the interface, predictable in production, and understandable by the next engineer who touches them.
 
@@ -18,7 +18,7 @@ My background as a former professional drummer and volleyball coach still shapes
 product experience  →  service boundaries  →  reliable data  →  observable delivery
 ```
 
-## Current signal
+## Current direction
 
 - Building production-oriented services in **Go**, with clear APIs, concurrency-aware design, and operational safeguards.
 - Creating accessible product experiences with **TypeScript, React, and Next.js**.
@@ -36,18 +36,18 @@ product experience  →  service boundaries  →  reliable data  →  observable
 | **Engineering** | API design · automated testing · observability · performance · application security |
 
 <p>
-  <img alt="Go" src="https://img.shields.io/badge/Go-07110b?style=flat-square&logo=go&logoColor=22c55e" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-07110b?style=flat-square&logo=go&logoColor=d6b15f" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-07110b?style=flat-square&logo=typescript&logoColor=22c55e" />
   <img alt="React" src="https://img.shields.io/badge/React-07110b?style=flat-square&logo=react&logoColor=22c55e" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-07110b?style=flat-square&logo=nextdotjs&logoColor=22c55e" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-07110b?style=flat-square&logo=nextdotjs&logoColor=d6b15f" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-07110b?style=flat-square&logo=nodedotjs&logoColor=22c55e" />
   <img alt="Python" src="https://img.shields.io/badge/Python-07110b?style=flat-square&logo=python&logoColor=22c55e" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-07110b?style=flat-square&logo=postgresql&logoColor=22c55e" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-07110b?style=flat-square&logo=postgresql&logoColor=d6b15f" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-07110b?style=flat-square&logo=redis&logoColor=22c55e" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-07110b?style=flat-square&logo=docker&logoColor=22c55e" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-07110b?style=flat-square&logo=kubernetes&logoColor=22c55e" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-07110b?style=flat-square&logo=kubernetes&logoColor=d6b15f" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-07110b?style=flat-square&logo=terraform&logoColor=22c55e" />
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-07110b?style=flat-square&logo=microsoftazure&logoColor=22c55e" />
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-07110b?style=flat-square&logo=microsoftazure&logoColor=d6b15f" />
 </p>
 
 ## Selected systems
