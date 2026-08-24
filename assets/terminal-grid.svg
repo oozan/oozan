@@ -101,6 +101,8 @@
     .depth-particle-b { animation: particle-b 9s 1.4s ease-in-out infinite; }
     .depth-particle-c { animation: particle-c 8.2s 2.2s ease-in-out infinite; }
     .white-core-aura { animation: white-core 4.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .telemetry-flow { stroke-dasharray: 92 22; animation: telemetry 6.4s linear infinite; }
+    .status-pulse { animation: status-pulse 2.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
 
     @keyframes dash { to { stroke-dashoffset: -216; } }
     @keyframes dash-reverse { to { stroke-dashoffset: 208; } }
@@ -122,9 +124,11 @@
     @keyframes particle-b { 0%, 100% { transform: translate(3px, 14px); opacity: 0.16; } 50% { transform: translate(-7px, -21px); opacity: 0.68; } }
     @keyframes particle-c { 0%, 100% { transform: translate(-2px, 5px); opacity: 0.1; } 48% { transform: translate(5px, -16px); opacity: 0.72; } }
     @keyframes white-core { 0%, 100% { opacity: 0.1; transform: scale(0.92); } 48% { opacity: 0.25; transform: scale(1.07); } 66% { opacity: 0.16; transform: scale(1.01); } }
+    @keyframes telemetry { to { stroke-dashoffset: -228; } }
+    @keyframes status-pulse { 0%, 100% { opacity: 0.4; transform: scale(0.82); } 48% { opacity: 1; transform: scale(1.18); } }
 
     @media (prefers-reduced-motion: reduce) {
-      .frame-flow, .circuit-a, .circuit-b, .sweep, .orbit, .orbit-reverse, .pulse, .pulse-late, .twinkle-a, .twinkle-b, .twinkle-c, .cursor, .bar-1, .bar-2, .bar-3, .bar-4, .bar-5, .figure-float, .figure-aura, .figure-contact-shadow, .figure-sheen, .figure-led-a, .figure-led-b, .figure-led-c, .figure-scan, .tracking-brackets, .depth-particle-a, .depth-particle-b, .depth-particle-c, .white-core-aura { animation: none; }
+      .frame-flow, .circuit-a, .circuit-b, .sweep, .orbit, .orbit-reverse, .pulse, .pulse-late, .twinkle-a, .twinkle-b, .twinkle-c, .cursor, .bar-1, .bar-2, .bar-3, .bar-4, .bar-5, .figure-float, .figure-aura, .figure-contact-shadow, .figure-sheen, .figure-led-a, .figure-led-b, .figure-led-c, .figure-scan, .tracking-brackets, .depth-particle-a, .depth-particle-b, .depth-particle-c, .white-core-aura, .telemetry-flow, .status-pulse { animation: none; }
     }
   </style>
 
@@ -155,6 +159,19 @@
     <text x="72" y="231" fill="#E8F7ED" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="2.7">FULL-STACK SYSTEMS ENGINEER</text>
     <text x="72" y="269" fill="#7FA18A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">product precision · service reliability · cloud discipline</text>
     <rect class="cursor" x="639" y="254" width="8" height="19" rx="1" fill="#D6B15F"/>
+  </g>
+
+  <g aria-hidden="true" transform="translate(70 292)">
+    <rect width="700" height="29" rx="8" fill="#061009" fill-opacity="0.82" stroke="#1E6B3C" stroke-opacity="0.52"/>
+    <path class="telemetry-flow" d="M13 22H687" stroke="#22C55E" stroke-opacity="0.36" stroke-width="1.1"/>
+    <circle class="status-pulse" cx="17" cy="10" r="3.3" fill="#43E27B" filter="url(#emerald-glow)"/>
+    <text x="31" y="14" fill="#D6B15F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" letter-spacing="1.4">ENGINEERING VECTOR</text>
+    <text x="218" y="14" fill="#D8ECDD" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" letter-spacing="1.2">PRODUCT</text>
+    <path d="M286 10H320" stroke="#43E27B" stroke-opacity="0.55"/>
+    <text x="339" y="14" fill="#D8ECDD" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" letter-spacing="1.2">SERVICES</text>
+    <path d="M424 10H458" stroke="#43E27B" stroke-opacity="0.55"/>
+    <text x="478" y="14" fill="#D8ECDD" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" letter-spacing="1.2">DELIVERY</text>
+    <text x="677" y="14" fill="#8AA393" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="8.5" letter-spacing="1" text-anchor="end">STABLE</text>
   </g>
 
   <g aria-hidden="true">
