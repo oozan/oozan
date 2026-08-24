@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal-grid.svg?v=3" width="100%" alt="Animated anonymous digital engineer portrait for Ozan Özayrancı" />
+  <img src="./assets/terminal-grid.svg?v=4" width="100%" alt="Animated anonymous digital engineer portrait for Ozan Özayrancı" />
 </p>
 
 <p align="center">
