@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal-grid-lite.gif" width="100%" alt="Lightweight animated anonymous digital engineer with a blazing white core for Ozan Özayrancı" />
+  <img src="./assets/terminal-grid.png" width="100%" alt="Anonymous digital engineer with a blazing white core for Ozan Özayrancı" />
 </p>
 
 <p align="center">
