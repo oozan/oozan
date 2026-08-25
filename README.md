@@ -81,6 +81,5 @@ I care about code that works well, is easy to read, and is easy to keep up later
 ---
 
 <p align="center">
-  <strong>Open to good engineering conversations.</strong><br />
   <a href="mailto:oozyranci@gmail.com">oozyranci@gmail.com</a> · <a href="https://www.linkedin.com/in/oozan/">LinkedIn</a>
 </p>
