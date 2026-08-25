@@ -1,19 +1,3 @@
-<table width="100%">
-  <tr>
-    <td width="42%" valign="middle">
-      <img src="./assets/digital-engineer.png" width="100%" alt="Digital engineer portrait" />
-    </td>
-    <td width="58%" valign="middle">
-      <h1>Hi, my name is Ozan.</h1>
-      <p>I build simple, useful software for products, platforms, and delivery.</p>
-      <p>
-        <a href="https://www.linkedin.com/in/oozan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-080b09?style=for-the-badge&logo=linkedin&logoColor=d6b15f" /></a>
-        <a href="mailto:oozyranci@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-080b09?style=for-the-badge&logo=gmail&logoColor=22c55e" /></a>
-        <a href="https://github.com/oozan?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/Explore_projects-080b09?style=for-the-badge&logo=github&logoColor=d6b15f" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## About Me
 
