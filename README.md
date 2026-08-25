@@ -8,10 +8,6 @@
   <a href="https://github.com/oozan?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/Explore_projects-080b09?style=for-the-badge&logo=github&logoColor=d6b15f" /></a>
 </p>
 
-## About Me
-
-I’m **Ozan Özayrancı**. I build software and like keeping things simple, clear, and useful.
-
 I care about code that works well, is easy to read, and is easy to keep up later.
 
 ## What I Do
